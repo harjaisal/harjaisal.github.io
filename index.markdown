@@ -6,4 +6,4 @@ layout: default
 title: Home
 nav_order: 1
 ---
-### On the sidebar, you can access the Questions of the Week and "How to Code" guide.
+### Welcome to the virtual onboarding for CodeBakersfield Sessions! On the sidebar, you can access the Questions of the Week and the "How to Code" guide.
